@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Hello, and thank you for looking at my coding test!
+
+As you can see I have created this project with create react app and I have added react-modern-drawer for a simple drawer to the project.
+Tests are written in Jest as that is what I currently use during my workdays and I have added the files to a file structure I am familiar with.
+
+Hope this can show give us something interesting to talk about and discuss if/when we meet!
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -6,6 +6,7 @@ import { SVGlogo } from '../utils/utils';
 // Would prefer a better UI library to create a table, both for the user- and the dev experience. Especially regarding accessibility.
 // Ideally I would have spent far more time (any time) to make this component responsive and made it by the mobile-first principle.
 // Since this is a coding test to show my skill level, I chose not to spend time on that aspect.
+// Wish there was a mock API to get the data, in order to be able to show error handling and API calls.
 
 // TODO: User feedback to display most relevant data points in the table1.
 // TODO: Added tracking for out of stock products - for data driven development to improve stock status
