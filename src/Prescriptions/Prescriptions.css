@@ -1,0 +1,40 @@
+.page-prescriptions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  background-color: #282c34;
+  font-size: 14px;
+}
+
+.page-header {
+  padding: 40px 40px 20px;
+}
+
+.table-wrapper {
+  color: white;
+  padding: 20px 40px 40px;
+}
+
+.table {
+  border-spacing: 0 2px;
+  border-color: red;
+}
+
+.table td,
+.table th {
+  padding: 2px 5px;
+}
+
+.table tr {
+  vertical-align: baseline;
+}
+
+.table > tbody > tr:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.table > tbody > tr.outOfStock {
+  background-color: #880808;
+}
